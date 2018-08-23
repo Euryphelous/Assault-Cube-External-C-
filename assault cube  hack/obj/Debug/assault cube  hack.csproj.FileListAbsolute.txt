@@ -1,0 +1,13 @@
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\obj\Debug\assault cube  hack.csprojAssemblyReference.cache
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\obj\Debug\assault_cube__hack.Form1.resources
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\obj\Debug\assault_cube__hack.Properties.Resources.resources
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\obj\Debug\assault cube  hack.csproj.GenerateResource.cache
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\obj\Debug\assault cube  hack.csproj.CoreCompileInputs.cache
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\bin\Debug\assault cube  hack.exe.config
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\bin\Debug\assault cube  hack.exe
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\bin\Debug\assault cube  hack.pdb
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\bin\Debug\VAMemory.dll
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\obj\Debug\assault cube  hack.csproj.CopyComplete
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\obj\Debug\assault cube  hack.exe
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\obj\Debug\assault cube  hack.pdb
+C:\Users\ryuii\source\repos\assault cube  hack\assault cube  hack\obj\Debug\assault_cube__hack.Form2.resources
